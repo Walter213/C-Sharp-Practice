@@ -1,0 +1,11 @@
+C:\Users\Pajo321\Desktop\CPSC1012-AP-Walter2\CPSC1012-AP-Walter2\bin\Debug\netcoreapp2.1\CPSC1012-AP-Walter2.deps.json
+C:\Users\Pajo321\Desktop\CPSC1012-AP-Walter2\CPSC1012-AP-Walter2\bin\Debug\netcoreapp2.1\CPSC1012-AP-Walter2.runtimeconfig.json
+C:\Users\Pajo321\Desktop\CPSC1012-AP-Walter2\CPSC1012-AP-Walter2\bin\Debug\netcoreapp2.1\CPSC1012-AP-Walter2.runtimeconfig.dev.json
+C:\Users\Pajo321\Desktop\CPSC1012-AP-Walter2\CPSC1012-AP-Walter2\bin\Debug\netcoreapp2.1\CPSC1012-AP-Walter2.dll
+C:\Users\Pajo321\Desktop\CPSC1012-AP-Walter2\CPSC1012-AP-Walter2\bin\Debug\netcoreapp2.1\CPSC1012-AP-Walter2.pdb
+C:\Users\Pajo321\Desktop\CPSC1012-AP-Walter2\CPSC1012-AP-Walter2\obj\Debug\netcoreapp2.1\CPSC1012-AP-Walter2.csprojAssemblyReference.cache
+C:\Users\Pajo321\Desktop\CPSC1012-AP-Walter2\CPSC1012-AP-Walter2\obj\Debug\netcoreapp2.1\CPSC1012-AP-Walter2.csproj.CoreCompileInputs.cache
+C:\Users\Pajo321\Desktop\CPSC1012-AP-Walter2\CPSC1012-AP-Walter2\obj\Debug\netcoreapp2.1\CPSC1012-AP-Walter2.AssemblyInfoInputs.cache
+C:\Users\Pajo321\Desktop\CPSC1012-AP-Walter2\CPSC1012-AP-Walter2\obj\Debug\netcoreapp2.1\CPSC1012-AP-Walter2.AssemblyInfo.cs
+C:\Users\Pajo321\Desktop\CPSC1012-AP-Walter2\CPSC1012-AP-Walter2\obj\Debug\netcoreapp2.1\CPSC1012-AP-Walter2.dll
+C:\Users\Pajo321\Desktop\CPSC1012-AP-Walter2\CPSC1012-AP-Walter2\obj\Debug\netcoreapp2.1\CPSC1012-AP-Walter2.pdb

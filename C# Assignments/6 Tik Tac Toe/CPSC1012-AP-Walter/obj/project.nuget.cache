@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QJEYOIms7KsJqRLTmTE1D0a90xh1lDLua44pQshyV2C/oOWcKhxneCxY0OhiTPbIdqfKbmt8nKImjWdsvfVW1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pajo321.000\\Desktop\\CPSC1012-AP-Walter\\CPSC1012-AP-Walter\\CPSC1012-AP-Walter6\\CPSC1012-AP-Walter\\CPSC1012-AP-Walter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pajo321.000\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Pajo321.000\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Pajo321.000\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Pajo321.000\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Pajo321.000\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Pajo321.000\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\wteljega1\Downloads\ThisIsForAP2sinceitnowork\ThisIsForAP2sinceitnowork\bin\Debug\netcoreapp2.0\ThisIsForAP2sinceitnowork.deps.json
+C:\Users\wteljega1\Downloads\ThisIsForAP2sinceitnowork\ThisIsForAP2sinceitnowork\bin\Debug\netcoreapp2.0\ThisIsForAP2sinceitnowork.runtimeconfig.json
+C:\Users\wteljega1\Downloads\ThisIsForAP2sinceitnowork\ThisIsForAP2sinceitnowork\bin\Debug\netcoreapp2.0\ThisIsForAP2sinceitnowork.runtimeconfig.dev.json
+C:\Users\wteljega1\Downloads\ThisIsForAP2sinceitnowork\ThisIsForAP2sinceitnowork\bin\Debug\netcoreapp2.0\ThisIsForAP2sinceitnowork.dll
+C:\Users\wteljega1\Downloads\ThisIsForAP2sinceitnowork\ThisIsForAP2sinceitnowork\bin\Debug\netcoreapp2.0\ThisIsForAP2sinceitnowork.pdb
+C:\Users\wteljega1\Downloads\ThisIsForAP2sinceitnowork\ThisIsForAP2sinceitnowork\obj\Debug\netcoreapp2.0\ThisIsForAP2sinceitnowork.csprojAssemblyReference.cache
+C:\Users\wteljega1\Downloads\ThisIsForAP2sinceitnowork\ThisIsForAP2sinceitnowork\obj\Debug\netcoreapp2.0\ThisIsForAP2sinceitnowork.csproj.CoreCompileInputs.cache
+C:\Users\wteljega1\Downloads\ThisIsForAP2sinceitnowork\ThisIsForAP2sinceitnowork\obj\Debug\netcoreapp2.0\ThisIsForAP2sinceitnowork.AssemblyInfoInputs.cache
+C:\Users\wteljega1\Downloads\ThisIsForAP2sinceitnowork\ThisIsForAP2sinceitnowork\obj\Debug\netcoreapp2.0\ThisIsForAP2sinceitnowork.AssemblyInfo.cs
+C:\Users\wteljega1\Downloads\ThisIsForAP2sinceitnowork\ThisIsForAP2sinceitnowork\obj\Debug\netcoreapp2.0\ThisIsForAP2sinceitnowork.dll
+C:\Users\wteljega1\Downloads\ThisIsForAP2sinceitnowork\ThisIsForAP2sinceitnowork\obj\Debug\netcoreapp2.0\ThisIsForAP2sinceitnowork.pdb
